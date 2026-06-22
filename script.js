@@ -176,7 +176,7 @@ function fizzle() {
 
         const size = 14 + Math.random() * 30;
         const delay = (Math.random() * 0.6).toFixed(2);
-        const duration = (1 + Math.random() * 0.8).toFixed(2);
+        const duration = (2 + Math.random() * 0.8).toFixed(2);
 
         star.style.cssText = `
             position: absolute;
