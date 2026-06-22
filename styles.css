@@ -198,11 +198,13 @@ body {
 }
 
 /* --- carousel --- */
+
 .carousel-wrapper {
     position: relative;
     width: min(560px, 92vw);
     margin-top: 6px;
 }
+
 
 .carousel-track-window {
     overflow: hidden;
@@ -228,15 +230,18 @@ body {
     border: 2px solid var(--color-heading);
     background: rgba(26,10,46,.85);
     color: var(--color-heading);
-    font-size: 26px;
+    font-size: 20px;
     font-weight: 800;
     cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
+    line-height: 1;
     box-shadow: 0 6px 18px rgba(0,0,0,.5);
     transition: var(--transition);
     z-index: 6;
+    padding: 0;
+    font-size: 1.8em;
 }
 .carousel-btn:hover {
     background: var(--color-cta);
