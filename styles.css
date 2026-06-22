@@ -823,6 +823,27 @@ footer {
 
 
 /* ============================================
+   MOBILE NAV
+   ============================================ */
+
+@media (max-width: 480px) {
+    #nav-links {
+        gap: var(--spacing-sm);
+    }
+
+    .nav-button {
+        font-size: 0.85rem;
+        padding: 0.4em 0.9em;
+        letter-spacing: 1px;
+    }
+
+    #nav-logo img {
+        height: 60px;
+    }
+}
+
+
+/* ============================================
    ANIMATIONS (from design)
    ============================================ */
 
