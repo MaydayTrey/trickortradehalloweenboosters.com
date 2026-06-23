@@ -1,42 +1,42 @@
 const products = [
     {
-        slot: 'pack',
-        name: 'Trick or Trade Booster Pack',
-        price: '$4.99',
+        slot: 'single',
+        name: 'Trick Or Trade Pokémon Center Card Sleeve TCG',
+        price: '$4.25',
         badge: 'POPULAR',
-        img: 'https://i.imgur.com/NuW4HpF.png',
+        img: 'Pokemon-Ebay-1.png',
         link: 'https://www.ebay.com/str/tinkswonderland'
     },
     {
-        slot: 'haunter',
-        name: 'Haunter · Halloween 065/196',
-        price: '$3.50',
+        slot: 'bundle',
+        name: '6 Pokémon Halloween Trick Or Trade Promo Booster Packs 2022 & 2023',
+        price: '$13.40',
+        badge: 'BOOSTER PACK',
+        img: 'Pokemon-Ebay-3.png',
+        link: 'https://www.ebay.com/str/tinkswonderland'
+    },
+    {
+        slot: 'single',
+        name: '1 Pokémon Center Card Sleeve TCG',
+        price: '$4.25',
         badge: 'SINGLE',
-        img: 'https://i.imgur.com/NuW4HpF.png',
+        img: 'Pokemon-Ebay-2.png',
         link: 'https://www.ebay.com/str/tinkswonderland'
     },
     {
-        slot: 'box',
-        name: 'Mini Booster Box (Sealed)',
-        price: '$29.99',
-        badge: 'SEALED',
-        img: 'https://i.imgur.com/NuW4HpF.png',
-        link: 'https://www.ebay.com/str/tinkswonderland'
-    },
-    {
-        slot: 'lot',
-        name: 'Spooky Singles Mystery Lot',
-        price: '$12.99',
-        badge: 'BUNDLE',
-        img: 'https://i.imgur.com/NuW4HpF.png',
+        slot: 'bundle',
+        name: '10 Packs Pokemon TCG Trick or Trade Booster Packs - 2024 Halloween Card Promos',
+        price: '$19.00',
+        badge: 'BOOSTER PACK',
+        img: 'Pokemon-Ebay-4.png',
         link: 'https://www.ebay.com/str/tinkswonderland'
     },
     {
         slot: 'promo',
-        name: 'Pumpkin Promo Bundle',
+        name: '10 Packs Pokemon TCG Trick or Trade Boosters 2022 Halloween Promo New Sealed',
         price: '$19.99',
-        badge: 'NEW',
-        img: 'https://i.imgur.com/NuW4HpF.png',
+        badge: 'BOOSTER PACK',
+        img: 'Pokemon-Ebay-5.png',
         link: 'https://www.ebay.com/str/tinkswonderland'
     }
 ];

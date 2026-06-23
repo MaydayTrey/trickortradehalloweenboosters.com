@@ -755,10 +755,8 @@ footer {
 .product-card__img {
     width: 236px;
     height: 300px;
-    object-fit: cover;
+    object-fit: contain;
     display: block;
-    border-radius: 14px;
-    box-shadow: 0 10px 28px rgba(0,0,0,.5);
 }
 
 .product-card__img-placeholder {
